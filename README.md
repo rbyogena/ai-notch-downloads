@@ -20,6 +20,8 @@ The update system uses Velopack and its `win` release channel. The official publ
 
 **Automatic updates are not active until the first valid release is published and an installed-version-to-new-version test succeeds.** A README by itself does not activate the updater.
 
+**Unsigned test notice:** A deliberately published v0.2.1 test build may temporarily appear here while automatic updates are being verified on the developer's Windows PC. Such builds will be labeled **UNSIGNED TEST** and are not recommended for general installation. GitHub Releases from this public repository are publicly accessible even when a release is intended only for testing. Official public distribution remains gated on code signing and release approval.
+
 ## Security and privacy
 
 - This repository contains no private source code or GitHub write tokens.
